@@ -1,0 +1,6 @@
+google-genai
+flask
+qrcode[pil]
+pillow
+flask-sqlalchemy
+flask-migrate
